@@ -1,0 +1,17 @@
+D:\Documents\testspring\WindowsFormsApplication1\Test1\bin\Debug\Test1.exe.config
+D:\Documents\testspring\WindowsFormsApplication1\Test1\bin\Debug\Test1.exe
+D:\Documents\testspring\WindowsFormsApplication1\Test1\bin\Debug\Test1.pdb
+D:\Documents\testspring\WindowsFormsApplication1\Test1\bin\Debug\Common.Logging.dll
+D:\Documents\testspring\WindowsFormsApplication1\Test1\bin\Debug\Spring.Core.dll
+D:\Documents\testspring\WindowsFormsApplication1\Test1\bin\Debug\Spring.Core.pdb
+D:\Documents\testspring\WindowsFormsApplication1\Test1\bin\Debug\Spring.Core.xml
+D:\Documents\testspring\WindowsFormsApplication1\Test1\obj\Debug\Test1.exe
+D:\Documents\testspring\WindowsFormsApplication1\Test1\obj\Debug\Test1.pdb
+D:\Documents\SpringNetSample\Test1\bin\Debug\Test1.exe.config
+D:\Documents\SpringNetSample\Test1\obj\Debug\Test1.exe
+D:\Documents\SpringNetSample\Test1\obj\Debug\Test1.pdb
+D:\Documents\SpringNetSample\Test1\bin\Debug\Test1.exe
+D:\Documents\SpringNetSample\Test1\bin\Debug\Test1.pdb
+D:\Documents\SpringNetSample\Test1\bin\Debug\Spring.Core.pdb
+D:\Documents\SpringNetSample\Test1\bin\Debug\Spring.Core.xml
+D:\Documents\SpringNetSample\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache

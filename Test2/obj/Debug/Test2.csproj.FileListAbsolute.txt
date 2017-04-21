@@ -1,0 +1,9 @@
+D:\Documents\SpringNetSample\Test2\bin\Debug\Common.Logging.dll
+D:\Documents\SpringNetSample\Test2\bin\Debug\Spring.Core.dll
+D:\Documents\SpringNetSample\Test2\bin\Debug\Spring.Core.pdb
+D:\Documents\SpringNetSample\Test2\bin\Debug\Spring.Core.xml
+D:\Documents\SpringNetSample\Test2\bin\Debug\Spring.Net.exe.config
+D:\Documents\SpringNetSample\Test2\bin\Debug\Spring.Net.exe
+D:\Documents\SpringNetSample\Test2\bin\Debug\Spring.Net.pdb
+D:\Documents\SpringNetSample\Test2\obj\Debug\Spring.Net.exe
+D:\Documents\SpringNetSample\Test2\obj\Debug\Spring.Net.pdb
